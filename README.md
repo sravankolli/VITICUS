@@ -7,8 +7,8 @@ PROJECT FOR THE ROAD ACCEDENTS
 
 **Columns you already have:**
 Severity → your prediction target
-Precipitation(in), Visibility(mi), Weather_Condition → weather ​
-Start_Time → extract night/rush hour/weekend ​
-Start_Lat, Start_Lng → location ​
-Sunrise_Sunset → day/night ​
-Traffic_Signal, Junction, Crossing → road features ​
+Precipitation(in), **Visibility**(mi), **Weather_Condition** → weather ​
+**Start_Time** → extract night/rush hour/weekend ​
+**Start_Lat**, **Start_Lng** → location ​
+**Sunrise_Sunset** → day/night ​
+Traffic_Signal, **Junction**,** Crossing** → road features ​
