@@ -86,3 +86,26 @@ st.bar_chart(factors)
 **for running use this :-
 **
 streamlit run app.py
+
+
+**what lib and what they accutal need and purpose**
+
+import pandas as pd
+
+➡️ Pandas → Used to handle data.
+
+from xgboost import XGBClassifier
+
+➡️ XGBoost → Used to create/train the AI model.
+
+from sklearn.model_selection import train_test_split
+
+➡️ train_test_split → Splits data into training data and testing data.
+
+from sklearn.metrics import classification_report
+
+➡️ classification_report → Checks how well the AI performed.
+
+import pickle
+
+➡️ pickle → Used to save the trained AI model.
