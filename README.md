@@ -82,3 +82,7 @@ factors = {
     "Night Time": 15 if is_night else 0,
 }
 st.bar_chart(factors)
+
+**for running use this :-
+**
+streamlit run app.py
